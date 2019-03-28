@@ -2,7 +2,7 @@
 DevC X Hactiv8 : HTML dan CSS  Latihan
 
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <title>BIODATA DIRI</title>
   </head>
